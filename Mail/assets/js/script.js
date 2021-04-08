@@ -30,5 +30,6 @@ if(mail_to_found){
    autorizzazione = "Tu non puoi passare! (Gandalf non vuole mi spiace)"
    console.log(autorizzazione)
 }
+//faccio apparire su schermo il risultato del gioco richiamando l'id assegnato
 
 document.getElementById('accesso').innerHTML= autorizzazione;
