@@ -6,12 +6,17 @@
 body{
     background-color: steelblue;
 }
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .box{
     width: 1000px;
     height: 250px;
     background-color: darkgrey;
     border-radius: 25px;
-    margin: 200px auto;
     text-align: center;
     padding: 25px;
     

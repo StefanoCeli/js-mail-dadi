@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/realistic-isolated-neon-sign-slot-machines-seamless-pattern-wall-background_269299-822.jpg?size=626&ext=jpg);
+    color: #fff;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    width: 800px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 25px;
+    text-align: center;
+}
+h1{
+    font-size: 300%;
+}
+h2{
+    font-size: 200%;
+    line-height: 80px;
+}
